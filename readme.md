@@ -27,10 +27,10 @@ This project explores a simple but effective idea:
 ## 🖼️ Demo
 
 ### Before
-![before](./images/before.png)
+![before](./before.png)
 
 ### After
-![after](./images/after.png)
+![after](./after.png)
 
 ---
 
